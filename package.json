@@ -1,0 +1,10 @@
+{
+  "name": "RCS",
+  "version": "1.0.0",
+  "description": "Random Community Site",
+  "main": "app.js",
+  "repository": "https://github.com/gwemin/RCS.git",
+  "author": "고나킴 <dbwnghks08@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
